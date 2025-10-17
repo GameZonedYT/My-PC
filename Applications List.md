@@ -12,6 +12,7 @@
 - Telegram Desktop
 - Discord
 - Paint 3D
+- Powershell
 - MS Office + Activation
 - Power Toys
 - Nvidia App
