@@ -4,13 +4,14 @@
 - Revo Uninstaller
 - Brave
 - Free Download Manager
+- WinRAR
+- Ant Esports GM320 Mouse Driver
+- Redgear Cosmo 7.1 Headphone Driver
 - VLC Media Player
 - WhatsApp Desktop
 - Telegram Desktop
 - Discord
 - Paint 3D
-- Ant Esports GM320 Mouse Driver
-- Redgear Cosmo 7.1 Headphone Driver
 - MS Office + Activation
 - Power Toys
 - Nvidia App
