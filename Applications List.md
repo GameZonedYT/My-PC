@@ -1,12 +1,10 @@
 # Applications List
 
 ## General Purpose Applications
-- Revo Uninstaller
 - Brave
 - Free Download Manager
 - WinRAR
-- Ant Esports GM320 Mouse Driver
-- Redgear Cosmo 7.1 Headphone Driver
+- Revo Uninstaller
 - VLC Media Player
 - WhatsApp Desktop
 - Telegram Desktop
@@ -17,9 +15,13 @@
 - Power Toys
 - Nvidia App
 - MP3Tag
-- Quick Share
+- Quick Share *
 - AMD Software: Adrenaline Edition *
 - Proton VPN *
+
+## Drivers
+- Ant Esports GM320 Mouse Driver
+- Redgear Cosmo 7.1 Headphone Driver ❌
 
 ## College & Coding
 - VS Code
