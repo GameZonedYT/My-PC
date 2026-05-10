@@ -1,10 +1,12 @@
 # Applications List
 
 ## General Purpose Applications
-- Brave
+- Browsers
+  - Zen
+  - Chrome
 - Free Download Manager
 - WinRAR
-- Revo Uninstaller *
+- Revo Uninstaller
 - VLC Media Player
 - WhatsApp Desktop
 - Telegram Desktop
@@ -15,10 +17,10 @@
 - MS Office + Activation
 - Power Toys
 - Nvidia App
-- MP3Tag *
-- Proton VPN *
-- Quick Share *
-- AMD Software: Adrenaline Edition *
+- LocalSend
+- MP3Tag
+- Proton VPN
+- AMD Software: Adrenaline Edition ❌
 
 ## Drivers
 - Ant Esports GM320 Mouse Driver
@@ -26,37 +28,34 @@
 
 ## College & Coding
 - VS Code
-- Node JS
-- MongoDB + Compass *
 - Java JDK
-- MinGW for C++ *
-- MySQL 8 (Latest Version) *
-- MySQL Workbench *
-- Python *
+- Node JS
 - GitHub Desktop
-- Google Chrome
+- MongoDB + Compass *
+- Python *
+- MinGW for C++ ❌
+- MySQL 8 (Latest Version) ❌
+- MySQL Workbench ❌
 
 ## YouTube and Videos
 - Wondershare Filmora
 - OBS Studio + Configurations
 - Audacity
+- Affinity *
 - Photoshop *
 - Camo Studio *
 
 ## Video Games and Launchers
 - Steam
 - Epic Games Store
-- MSI After Burner
-- Riva Tuna Statistics
-- Roblox
+- MSI After Burner + Riva Tuna Statistics
 - GTA Tightened Vice
-- Bully
+- Bully + Drivers
 - Red Dead Redemption
-- Plants vs Zombies
+- Minecraft + TLauncher *
 - The Silent Age *
-- Pizzapocalypse *
-- Handy Dandy *
-- Light Maze *
+- Roblox *
+- Plants vs Zombies ❌
 
 ## Game Development
 - Aesprite *
