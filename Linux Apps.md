@@ -6,15 +6,9 @@
 
 - Must Have Utilities
   - LocalSend
-  - Revo Uninstaller
   - Free Download Manager
-  - WinRAR
   - VLC Media Player
-  - Power Toys
-
-- Drivers
-  - Ant Esports GM320 Mouse Driver
-  - Redgear Cosmo 7.1 Headphone Driver ❌
+  - Kate
 
 - Social Media
   - WhatsApp Desktop
@@ -22,54 +16,28 @@
   - Telegram Desktop *
  
 - Drawing Tools
-  - Paint 3D
-  - Figma
-  - Affinity *
+  - My Paint
 
 - Other Utilities
-  - Powershell
-  - MS Office + Activation
-  - Nvidia App
-  - MP3Tag *
-  - Proton VPN *
-  - AMD Software: Adrenaline Edition ❌
+  - Libre Office / MS Office Alternative *
+  - Proton VPN
 
-## College & Coding
-- VS Code
-- Java JDK
-- Node JS
-- GitHub Desktop
-- MongoDB + Compass *
-- Python *
-- MinGW for C++ ❌
-- MySQL 8 (Latest Version) ❌
-- MySQL Workbench ❌
+- Programming
+  - VS Code
+  - Java JDK
+  - Node JS
+  - MongoDB + Compass *
+  - Python *
+  - MinGW for C++ ❌
+  - MySQL 8 (Latest Version) ❌
+  - MySQL Workbench ❌
 
-## YouTube and Videos
-- Wondershare Filmora
-- OBS Studio + Configurations
-- Audacity
-- Affinity *
-- Photoshop *
-- Camo Studio *
-
-## Video Games and Launchers
-- Steam
-- Epic Games Store
-- MSI After Burner + Riva Tuna Statistics
-- GTA Tightened Vice
-- Bully + Drivers
-- Red Dead Redemption
-- Minecraft + TLauncher *
-- The Silent Age *
-- Roblox *
-- Plants vs Zombies ❌
-
-## Game Development
-- Unity
-- itch.io
-- Blender *
-- Unreal Engine *
-- Aesprite ❌
-- Godot ❌
-- Gimp ❌
+- Game Development
+  - Unity
+  - itch.io
+  - Pixi Editor
+  - Blender *
+  - Unreal Engine *
+  - Aesprite ❌
+  - Godot ❌
+  - Gimp ❌
