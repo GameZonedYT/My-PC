@@ -40,24 +40,25 @@
   - Audacity
   - Camo Studio *
 
-## Video Games and Launchers
-- Steam
-- Epic Games Store
-- MSI After Burner + Riva Tuna Statistics
-- GTA Tightened Vice
-- Bully + Drivers
-- Red Dead Redemption
-- Minecraft + TLauncher *
-- The Silent Age *
-- Roblox *
-- Plants vs Zombies ❌
+- Video Games and Launchers
+  - Steam
+  - Epic Games Store
+  - MSI After Burner + Riva Tuna Statistics
+  - GTA Tightened Vice
+  - Bully + Drivers
+  - Red Dead Redemption
+  - Minecraft + TLauncher *
+  - The Silent Age *
+  - Roblox *
+  - Plants vs Zombies ❌
 
-## Game Development
-- Unity
-- itch.io
-- Blender *
-- Unreal Engine *
-- Aesprite ❌
-- Godot ❌
-- Gimp ❌
+- Game Development
+  - Unity
+  - itch.io
+  - Pixi Editor
+  - Blender *
+  - Unreal Engine *
+  - Aesprite ❌
+  - Godot ❌
+  - Gimp ❌
 
