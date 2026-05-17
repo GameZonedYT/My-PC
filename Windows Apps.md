@@ -34,24 +34,11 @@
   - Proton VPN *
   - AMD Software: Adrenaline Edition ❌
 
-## College & Coding
-- VS Code
-- Java JDK
-- Node JS
-- GitHub Desktop
-- MongoDB + Compass *
-- Python *
-- MinGW for C++ ❌
-- MySQL 8 (Latest Version) ❌
-- MySQL Workbench ❌
-
-## YouTube and Videos
-- Wondershare Filmora
-- OBS Studio + Configurations
-- Audacity
-- Affinity *
-- Photoshop *
-- Camo Studio *
+- YouTube
+  - Wondershare Filmora
+  - OBS Studio + Configurations
+  - Audacity
+  - Camo Studio *
 
 ## Video Games and Launchers
 - Steam
