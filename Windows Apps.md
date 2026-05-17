@@ -2,7 +2,7 @@
 
 ## General Purpose Applications
 - Browsers
-  - Zen
+  - Brave
   - Chrome
 - Free Download Manager
 - WinRAR
