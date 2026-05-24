@@ -10,6 +10,7 @@
   - Free Download Manager
   - WinRAR
   - VLC Media Player
+  - Dropshelf
   - Power Toys
 
 - Drivers
