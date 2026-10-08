@@ -2,8 +2,8 @@
 
 |Type|Applications|
 |---|---|
+|Utils|UniGetUI, WinRAR, Free Download Manager, Revo Uninstaller, Powershell, chocolatey|
 |Browser|Brave|
-|Utils|WinRAR, Free Download Manager, Revo Uninstaller, Powershell, winget, chocolatey|
 |Important|VLC, Sublime, Paint 3D, MS Office, Nvidia|
 |Others|Powertoys/Everything, Windhawk, LocalSend, Blip, Universal x86 Tuning Utility|
 |Drivers|[Ant Esport GM320 v2](https://downloads.antesports.com/get.php?type=drivers&file=ANT-GM320-GM330-GM340V2.exe)|
