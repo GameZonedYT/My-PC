@@ -34,16 +34,7 @@
 4. Go to Regedit and fix the you see something like 'This is managed by your organization.'
 	- Open regedit.
 	- Go to `HKLM\SOFTWARE\Microsoft\PolicyManager\current\device\Education` and set the value of `IsEducationEnvironment` to 0.
-	- Check for values such as:
-		- `DisableWindowsSpotlightFeatures`
-		- `ConfigureWindowsSpotlightOnLockScreen`
-		- `NoChangingLockScreen`
-		inside the registries like:
-		- `HKLM\SOFTWARE\Policies\Microsoft\Windows\CloudContent`
-		- `HKCU\SOFTWARE\Policies\Microsoft\Windows\CloudContent`
-		- `HKLM\SOFTWARE\Policies\Microsoft\Windows\Personalization`
-		- `HKCU\SOFTWARE\Policies\Microsoft\Windows\Personalization`
-		and set these values to 0.
+	- Check for values such as `DisableWindowsSpotlightFeatures`, `ConfigureWindowsSpotlightOnLockScreen`, `NoChangingLockScreen` inside the registries like `HKLM\SOFTWARE\Policies\Microsoft\Windows\CloudContent`, `HKCU\SOFTWARE\Policies\Microsoft\Windows\CloudContent`, `HKLM\SOFTWARE\Policies\Microsoft\Windows\Personalization`, `HKCU\SOFTWARE\Policies\Microsoft\Windows\Personalization` and set these values to 0.
 
 ## Extra Steps
 - Make a New template for New Empty File using Regedit.
